@@ -1,0 +1,13 @@
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.exe
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.deps.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.runtimeconfig.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.runtimeconfig.dev.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\bin\Debug\netcoreapp3.1\KanbanBoardSystem.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.csprojAssemblyReference.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.AssemblyInfoInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.AssemblyInfo.cs
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.csproj.CoreCompileInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KanbanBoardSystem\obj\Debug\netcoreapp3.1\KanbanBoardSystem.genruntimeconfig.cache
