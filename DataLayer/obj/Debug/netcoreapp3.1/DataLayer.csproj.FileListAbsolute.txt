@@ -1,0 +1,4 @@
+C:\Users\Barre\source\repos\KanbanBoardSystem\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\Barre\source\repos\KanbanBoardSystem\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache

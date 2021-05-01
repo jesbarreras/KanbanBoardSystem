@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\KanbanBoardSystem\\KanbanBoardSystem.csproj",
-      "projectName": "KanbanBoardSystem",
-      "projectPath": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\KanbanBoardSystem\\KanbanBoardSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\DataLayout\\DataLayer.csproj",
+      "projectName": "DataLayer",
+      "projectPath": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\DataLayout\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Barre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\KanbanBoardSystem\\obj\\",
+      "outputPath": "C:\\Users\\Barre\\source\\repos\\KanbanBoardSystem\\DataLayout\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
