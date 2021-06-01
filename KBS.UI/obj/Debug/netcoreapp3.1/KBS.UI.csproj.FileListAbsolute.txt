@@ -1,0 +1,16 @@
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.exe
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.deps.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.runtimeconfig.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.runtimeconfig.dev.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.UI.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.BL.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\bin\Debug\netcoreapp3.1\KBS.BL.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.csprojAssemblyReference.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.AssemblyInfoInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.AssemblyInfo.cs
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.csproj.CoreCompileInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.csproj.CopyComplete
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.UI\obj\Debug\netcoreapp3.1\KBS.UI.genruntimeconfig.cache

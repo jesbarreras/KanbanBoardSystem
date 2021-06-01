@@ -1,0 +1,9 @@
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\bin\Debug\netcoreapp3.1\KBS.BL.deps.json
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\bin\Debug\netcoreapp3.1\KBS.BL.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\bin\Debug\netcoreapp3.1\KBS.BL.pdb
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.csprojAssemblyReference.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.AssemblyInfoInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.AssemblyInfo.cs
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.dll
+C:\Users\Barre\source\repos\KanbanBoardSystem\KBS.BL\obj\Debug\netcoreapp3.1\KBS.BL.pdb
