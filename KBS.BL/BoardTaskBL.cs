@@ -93,7 +93,7 @@ namespace KBS.BL
             //move from To Do to Doing
             if (numListChoice == 1)
             {  
-                    var moveTask = taskListToDo[moveTaskIndex - 1];
+                   var moveTask = taskListToDo[moveTaskIndex - 1];
                    taskListToDo.Remove(moveTask);
                    taskListDoing.Add(moveTask);
                    
